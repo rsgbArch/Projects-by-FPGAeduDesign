@@ -12,6 +12,7 @@ Para este proyecto, se hizo el diseño con un enfoque estructual como se muestra
   Diagrama esquemático para el controlador HC-SR04
 </p>
 Este consta simplemente de tres bloques que tienen las siguientes funcionalidades:
+
   1. sdf
   2. sd
   3. sdf
