@@ -6,6 +6,6 @@ Para poder manipular el sensor HC-SR04, se tiene que conocer el funcionamiento d
         <img src="timing_diagram.png" alt="timing_diagram" width="400"/>
     </p>
     <p align="center">
-       <figcaption>sdfsdf</figcaption> 
+       <figcaption align="center">sdfsdf</figcaption> 
     </p>
 </figure>
