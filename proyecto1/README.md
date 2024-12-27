@@ -11,3 +11,7 @@ Para este proyecto, se hizo el diseño con un enfoque estructual como se muestra
   <img src="block_diagram_hcsr04.png" alt="Block Diagram" width="400"/> <br>
   Diagrama esquemático para el controlador HC-SR04
 </p>
+Este consta simplemente de tres bloques que tienen las siguientes funcionalidades:
+1. 
+2. 
+3.
