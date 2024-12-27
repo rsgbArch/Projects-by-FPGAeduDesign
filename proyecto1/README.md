@@ -13,6 +13,6 @@ Para este proyecto, se hizo el diseño con un enfoque estructual como se muestra
 </p>
 Este consta simplemente de tres bloques que tienen las siguientes funcionalidades:
 
-1. sdf
+1. El bloque *generador_trig:u1*, como su nombre lo sugiere, se encarga de generar una señal periódica con un pulse de duración de $10 \micro s$
 2. sd
 3. sdf
