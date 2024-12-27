@@ -13,6 +13,6 @@ Para este proyecto, se hizo el diseño con un enfoque estructual como se muestra
 </p>
 Este consta simplemente de tres bloques que tienen las siguientes funcionalidades:
 
-  1. sdf
-  2. sd
-  3. sdf
+1. sdf
+2. sd
+3. sdf
