@@ -1,3 +1,3 @@
 # Diseño lógido para el sensor ultrasónico HC-SR04 en una FPGA
 Para poder manipular el sensor HC-SR04, se tiene que conocer el funcionamiento de este. Este funcionamiento te proporciona la empresa que fabrica este sensor (ver [aquí](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf). El diagrama de tiempos muestra las señales tanto para le pin de entrada (Trig) y de salida (Echo). Así como también para la señal interna se genera para el zumbador (la señal cuadrada de 8 pulsos a 40 KHz). 
-<center><img src="timing_diagram.png" alt="timing_diagram" width="200"/></center>
+<center><img src="timing_diagram.png" alt="timing_diagram" width="400"/></center>
