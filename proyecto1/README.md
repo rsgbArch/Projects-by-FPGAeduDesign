@@ -8,6 +8,6 @@ Para poder manipular el sensor HC-SR04, se tiene que conocer el funcionamiento d
 
 Para este proyecto, se hizo el diseño con un enfoque estructual como se muestra el la siguiente Figura. 
 <p>
-  <img src="https://drive.google.com/drive/u/0/folders/1pRUy9i6mQUjz9eGgCjLJX76zudBhB9qf" alt="rtl" width="400"/> <br>
+  <img src="block_diagram_hcsr04.png" alt="Block Diagram" width="400"/> <br>
   Diagrama esquemático para el controlador HC-SR04
 </p>
