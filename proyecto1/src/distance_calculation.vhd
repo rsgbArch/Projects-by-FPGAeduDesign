@@ -1,3 +1,4 @@
+-- Estima la distancia de acuerdo al conteo de flancos de la señal echo
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 use ieee.std_logic_unsigned.all;
