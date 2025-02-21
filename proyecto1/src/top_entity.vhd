@@ -2,7 +2,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
-entity HCSR04 is
+entity top_entity is
   generic
     (n : integer := 20);
   port
@@ -14,9 +14,9 @@ entity HCSR04 is
     display_out2 : out std_logic_vector (6 downto 0);
     transistor   : out std_logic_vector (3 downto 0)
   );
-end HCSR04;
+end top_entity;
 
-architecture Behavioral of HCSR04 is
+architecture Behavioral of top_entity is
 
   component TriggerGen
     port
