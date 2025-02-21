@@ -1,6 +1,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 use ieee.std_logic_unsigned.all;
+
 entity distance_calculation is
   port(
     echo_count : in std_logic_vector (19 downto 0);
