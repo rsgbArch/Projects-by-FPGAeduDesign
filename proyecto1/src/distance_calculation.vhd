@@ -10,7 +10,6 @@ end distance_calculation;
 
 architecture Behavioral of distance_calculation is
 begin
-  --                                  5800
 
   Distance <= "000000000" when (echo_count < 2900) else --0cm
     "000000001" when (echo_count > 2900 and echo_count < 4350) else --1-1.5cm
