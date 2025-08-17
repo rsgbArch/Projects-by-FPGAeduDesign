@@ -1,5 +1,5 @@
 # Proyectos realizados en FPGAeduDesign
-En este repositorio, encontrarás la descripción general de los proyectos realizados por FPGAeduDesign, que puedes encontrarlo en [TikTok](https://www.tiktok.com/@s4ndro).
+En este repositorio, encontrarás la descripción general de los proyectos realizados por FPGAeduDesign, que puedes encontrarlo en [TikTok](https://www.tiktok.com/@fpgaedudesign).
 ## Proyectos realizados
 - Proyecto 1:
 [Diseño lógido para el sensor ultrasónico HC-SR04 en una FPGA](/proyecto1/)
